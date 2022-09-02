@@ -7,5 +7,5 @@ O controle de  tarefas deste projeto sera feito no GitHub
 ### Ìcones
 :package: Nova funcionalidade
 :up: Atualização
-:beatle: Correção de bug
+:beatles: Correção de bug
 :checkered_flag: Relase
