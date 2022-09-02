@@ -5,7 +5,7 @@ Portfolio do devenvolvedor
 O controle de  tarefas deste projeto sera feito no GitHub
 
 ### Ìcones
-:packege: Nova funcionalidade
+:package: Nova funcionalidade
 :up: Atualização
 :beatle: Correção de bug
-:checkerred_flag: Relase
+:checkered_flag: Relase
