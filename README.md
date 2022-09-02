@@ -1,11 +1,14 @@
 # portfolio
+
 Portfolio do devenvolvedor
 
 ## Tarefas
+
 O controle de  tarefas deste projeto sera feito no GitHub
 
 ### Ìcones
-:package: Nova funcionalidade
-:up: Atualização
-:beetle: Correção de bug
-:checkered_flag: Relase
+
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: relase
